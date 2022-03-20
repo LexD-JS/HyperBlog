@@ -8,3 +8,23 @@ ul li {
     color: rgb(5, 110, 19);
     display: inline-block;
 }
+
+.scuad1{
+    background-color :rgb(11, 100, 151);
+    width: 180px;
+    height: 180px;  
+}
+.scuad2{
+    background-color :rgb(15, 95, 46);
+    width: 180px;
+    height: 180px;
+}
+.scuad3{
+    background-color :rgb(51, 85, 197);
+    width: 180px;
+    height: 180px;
+}
+
+.scuad{
+    display: inline-block;
+}
