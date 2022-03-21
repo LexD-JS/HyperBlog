@@ -3,6 +3,13 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+h1{
+    background-color: rgb(35, 92, 156);
+    width: 350px;
+    display: inline
+}
+
+
 ul li {
     list-style: none;
     color: rgb(5, 110, 19);
